@@ -1,6 +1,7 @@
 # 👋 Hi, my name is **Dmitry Bystrov**!
 ## I'm a junior *Front-end developer* from Moscow.
 ### Check my projects: [delivery-food.web.app](https://delivery-fooods.web.app/)
+### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
