@@ -1,4 +1,19 @@
-### Hi there 👋
+# 👋 Hi, my name is **Dmitry Bystrov**!
+## I'm a junior *Front-end developer* from Moscow.
+### Check my projects: [delivery-food.web.app](https://delivery-fooods.web.app/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![ReactJS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
+![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
+![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=NodeJS)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+### 💬 Mail me: dmitr_bystrov@mail.ru
+### ⚡ Telegram: DarknessPSA
+#
+
 
 <!--
 **SamFlayer/SamFlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
