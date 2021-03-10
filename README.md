@@ -8,7 +8,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/-Node-090909?style=for-the-badge&logo=NodeJs)
+![NodeJS](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=Node)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ### 💬 Mail me: dmitr_bystrov@mail.ru
