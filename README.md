@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Dmitry Bystrov**!
-## I'm a *Front-end developer* from Moscow.
+## I'm *Front-end developer* from Moscow.
 ### Check my projects: [Delivery Site](https://delivery-fooods.web.app/)
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
