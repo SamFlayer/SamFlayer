@@ -1,6 +1,6 @@
 # 👋 Hi, my name is **Dmitry Bystrov**!
 ## I'm *Front-end developer* from Moscow.
-### Check my projects: [CRM Service](https://crm-logistic.herokuapp.com/), [Delivery Site](https://delivery-fooods.web.app/), [E-commerce shop](https://e-commerce-here.herokuapp.com/)
+### Check my projects: [CRM Service](https://crm-logistic.herokuapp.com/), [E-commerce shop](https://e-commerce-here.herokuapp.com/), [Delivery Site](https://delivery-fooods.web.app/)
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
