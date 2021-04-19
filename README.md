@@ -12,7 +12,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ### 💬 Mail me: dmitr_bystrov@mail.ru
-### ⚡ Telegram: DarknessPSA
+### ⚡ Telegram: [DarknessPSA](https://t.me/DarknessPSA)
 #
 
 
