@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Dmitry Bystrov**!
-## I'm *Front-end developer* from Moscow (working in Mail.ru Group).
+## I'm *Front-end developer* from Moscow (working in Gazprombank).
 ### Check my projects: [CRM Service](https://crm-logistic.herokuapp.com/), [E-commerce shop](https://e-commerce-here.herokuapp.com/), [Delivery Site](https://delivery-fooods.web.app/)
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
